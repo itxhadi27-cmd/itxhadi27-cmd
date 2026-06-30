@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Maqsood Ahmed
 
-<!--
-**itxhadi27-cmd/itxhadi27-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer | UI Builder | Product-Focused Developer
 
-Here are some ideas to get you started:
+I build polished web apps with a focus on clean design, strong user experience, and real-world business use cases.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work on
+- Responsive frontend applications
+- Business dashboards
+- API-driven web apps
+- Product-style interfaces
+- Modern JavaScript and TypeScript projects
+
+## Featured Projects
+- MediCore — Hospital Management System
+- ApexHR — HR Management System
+- CryptoFolio — Crypto Tracker with live charts
+- Skyline Weather — Multi-city weather dashboard
+
+## Tech Stack
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- React
+- API Integration
+- Responsive UI
+
+## Currently Improving
+- Stronger architecture
+- Better project depth
+- More polished documentation
+- Full-stack features
+- Real-world product thinking
+
+## Goals
+- Build premium portfolio projects
+- Improve frontend engineering skills
+- Learn backend and system design fundamentals
+- Land a high-quality development role
