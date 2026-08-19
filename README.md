@@ -1,5 +1,6 @@
 # Hi, I'm Maqsood Ahmed
-
+Cheif Executing Officer of Bisconii
+Accountant Manager of Bisconii
 Frontend Developer | UI Builder | Product-Focused Developer
 
 I build polished web apps with a focus on clean design, strong user experience, and real-world business use cases.
